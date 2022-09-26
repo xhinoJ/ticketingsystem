@@ -30,7 +30,7 @@ That should be all. After that we may start the application via our IDE or using
 You may test the rest functionalities via [swagger ui](http://localhost:8080/swagger-ui)
 
 
-
+ 
 Unit and Integrations tests are located under src/test/java/com/traffic/eventmanager
 
 
